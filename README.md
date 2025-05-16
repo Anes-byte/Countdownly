@@ -54,3 +54,14 @@ Made with ❤️ by [@Anes-byte](https://github.com/Anes-byte)
 
 © 2025 Countdownly. All rights reserved.
 This project is open source and intended for personal and educational use only.
+
+# Countdownly ⏳
+
+Create beautiful, customizable countdowns with dark mode, reminders, sharing options and more!
+
+## 🔥 Preview
+
+### Home Page:
+![Home Page](./assets/screenshot-1.png)
+![Home Page](./assets/screenshot-2.png)
+

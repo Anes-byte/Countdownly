@@ -27,7 +27,7 @@ Easily create and manage multiple countdowns for your important events with a sm
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/countdownly.git
+git clone https://github.com/Anes-byte/countdownly.git
 cd countdownly
 ````
 
